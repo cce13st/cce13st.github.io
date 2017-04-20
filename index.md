@@ -4,8 +4,8 @@
 ## School of Computing
 ## KAIST
 
-gytk.kim (at) gmail.com
-Curriculum Vitae
+#gytk.kim (at) gmail.com
+#Curriculum Vitae
 
-Research Interests
+#Research Interests
 
